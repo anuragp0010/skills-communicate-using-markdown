@@ -1,2 +1,2 @@
 # 
-<H1> Heading added.
+Heading added.
